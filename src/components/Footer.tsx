@@ -11,7 +11,7 @@ export default function Footer() {
             <div className="text-4xl font-bold text-yellow-600">
           Build<span className="text-white">It</span>
         </div>
-            <p className="text-lg text-black mb-4">
+            <p className="text-lg text-gray-400 mb-4">
               We are a leading construction company, delivering high-quality
               projects on time and within budget. Our experts are here to help you
               build your dream.
